@@ -14,7 +14,6 @@ document.querySelector("#collaborator-2-name").innerHTML = "N/A";
 
 
 
-
 // Question 3
 const firstNameInput = document.getElementById('first_name');
 const lastNameInput = document.getElementById('last_name');
